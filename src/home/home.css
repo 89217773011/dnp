@@ -1,3 +1,16 @@
 .home {
     width: 50%;
 }
+
+.text-margin {
+    margin-bottom: 30px !important;
+}
+
+.paper-class {
+    margin-bottom: 30px !important;
+}
+
+.grid-list {
+    display: inline-flex !important;
+    text-align: -webkit-center !important;
+}
